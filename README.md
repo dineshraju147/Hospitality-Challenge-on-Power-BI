@@ -47,7 +47,7 @@ A special thanks to **Dhaval Patel** and **Hemanand Vadivel** for their guidance
 Gratitude to **Ashish Babaria** for his innovative use of **ribbon charts**, which inspired a new level of insight in my analysis.
 
 ## Dashboard Link
-[Power BI Dashboard](https://lnkd.in/eyrp3igQ)
+[Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzNjYzVlMzMtODUyNS00MTE0LTk0NmQtMWQ5MDkzOWI4MDI4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 Let's continue exploring and leveraging data to drive impactful decisions! 🚀
 
